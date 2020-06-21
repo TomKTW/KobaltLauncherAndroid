@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme">
+        <item name="android:windowActionBar" tools:targetApi="honeycomb">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:colorBackground">@null</item>
+    </style>
+</resources>
