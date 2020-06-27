@@ -34,6 +34,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.github.TomKTW:Core-Android:b925d75b4d'
+    implementation 'com.github.TomKTW:KobaltCore:bcb128d295'
     testImplementation 'junit:junit:4.12'
 }
